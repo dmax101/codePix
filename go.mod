@@ -1,4 +1,4 @@
-module github.com/dmax101/codePix
+module github.com/codeedu/imersao/codepix-go
 
 go 1.15
 
